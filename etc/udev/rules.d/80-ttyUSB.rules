@@ -1,0 +1,2 @@
+#etc/udev/rules.d/
+KERNEL=="ttyUSB*", OWNER="root", GROUP="root", MODE="0666"  
